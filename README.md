@@ -14,5 +14,5 @@ This project uses the following:
 * HTML elements, attributes, and properties
 * CSS class selectors
 * JavaScript objects 
-* JavaScript objects
+* JavaScript functions
 * Web Storage API
